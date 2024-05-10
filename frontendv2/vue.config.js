@@ -5,7 +5,7 @@ module.exports = {
   publicPath: '/',
   lintOnSave: false,
   transpileDependencies: ['vuetify'],
-  "assetsDir": "BRAC-Archive/BRAC-Archive/cycling/static/",
+  "assetsDir": "cycling/static/",
   configureWebpack: {
     resolve: {
       alias: {
